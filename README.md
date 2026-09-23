@@ -129,7 +129,7 @@ This creates the `student_tracker` database, all 7 tables, sample data, and ever
 
 ---
 ## video demo
-[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1HLP8tHOisDFLGyaVp49TI1NL-7rEjbGs/view?usp=sharing)
+[![Play Video](https://img.shields.io/badge/▶%20Play-Video-success?style=for-the-badge)](https://drive.google.com/file/d/1xLSzhzN3SMbSGaYYb93JBk6-gSBxxte4/view?usp=sharing)
 
 ---
 ## 📁 Files
